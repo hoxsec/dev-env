@@ -12,3 +12,4 @@ powershell -command iex (New-Object Net.WebClient).DownloadString('https://raw.g
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/hoxsec/dev-env/main/mac/setup.sh)"
 ```
+
